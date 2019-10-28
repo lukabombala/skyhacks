@@ -1,4 +1,4 @@
-import config as c
+from tasks.main import config as c
 import os
 from PIL import Image
 

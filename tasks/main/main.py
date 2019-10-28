@@ -1,6 +1,4 @@
-from resize_directory import resize
-from print_size import check_size
-import config as c
+from tasks.main.resize_directory import resize
 import os
 
 lst = os.listdir("main_task_data")
